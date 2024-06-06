@@ -1,10 +1,10 @@
-package com.akshardham.AKDM_Direction;
+package com.Akshardham.AkshardhamInformationDisplays;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AkdmDirectionApplicationTests {
+class AkshardhamInformationDisplaysApplicationTests {
 
 	@Test
 	void contextLoads() {
